@@ -5,5 +5,10 @@
 		}
 	
 	],
-	"settings": {}
+	"settings": {
+		"http.proxyAuthorization": null,
+		"http.proxySupport": "off",
+		"HTTPS_PROXY": "",
+        "HTTP_PROXY": ""
+	}
 }

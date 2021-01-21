@@ -1,0 +1,19 @@
+{
+  "name": "devops-course-workshop-module-07-learners",
+  "version": "1.0.0",
+  "description": "Module_7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeLaBou/DevOps-Course-Workshop-Module-07-Learners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeLaBou/DevOps-Course-Workshop-Module-07-Learners/issues"
+  },
+  "homepage": "https://github.com/MikeLaBou/DevOps-Course-Workshop-Module-07-Learners#readme"
+}
